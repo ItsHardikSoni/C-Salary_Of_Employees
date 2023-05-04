@@ -1,4 +1,15 @@
-/* Salary of Employee Using (IF ELSE IF && ||) */
+// Write a program to calculate the salary as per the following table.
+// Male    >=10    Post Graduate     11000,
+//         >=10    Graduate          10000,
+//         <=10    Post Graduate     10000, 
+//         <=10    Graduate          7000,
+// Female  >=10    Post Graduate     12000, 
+//         >=10    Graduate          9000, 
+//         <=10    Post Graduate     10000,
+//         <=10    Post Graduate     6000,
+
+
+
 #include<stdio.h>
 #include<conio.h>
 int main()
